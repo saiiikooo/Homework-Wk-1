@@ -12,7 +12,7 @@ SO THAT our own site is optimized for search engines. This allows to provide muc
 ## Images and Screenshot
 <img src="images\image_1.png" width="100">
 
-![Screenshot](BootcampWk2\images\WecareForYou.jpg) 
+![Screenshot](BootcampWk2\images\WecareForYou.png) 
 
 
 
