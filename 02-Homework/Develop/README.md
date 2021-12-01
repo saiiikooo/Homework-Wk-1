@@ -12,7 +12,6 @@ SO THAT our own site is optimized for search engines. This allows to provide muc
 ## Images and Screenshot
 <img src="assets/images/image_1.png" width="100">
 
-
 ![Example Images/Screenshot](assets/images/image_1.png) 
 
 
