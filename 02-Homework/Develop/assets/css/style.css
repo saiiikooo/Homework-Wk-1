@@ -20,7 +20,32 @@ body {
     font-size: 48px;
 }
 
-.header h1 .seo {
+.care {
+    text-decoration: underline;
+    position: relative;
+}
+
+.care:hover::after {
+    animation: fadeIn 2s;
+    content: "ForYou";
+    position: absolute;
+    left: 115%;
+    bottom: -5%;
+}
+
+@keyframes fadeIn {
+    from {
+        opacity: 0;
+    }
+
+    to {
+        opacity: 1s;
+    }
+}
+
+
+
+.header h1 .care {
     color: #d9dcd6;
 }
 /* To allow and customize a chosen Font to be used in the HTML */
