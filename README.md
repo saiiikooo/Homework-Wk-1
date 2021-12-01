@@ -5,9 +5,7 @@ Welcome. We are a web-based firm that specialises in making things simpler to fi
 
 
 ## User Story
-AS A marketing agency
-I WANT a codebase that follows accessibility standards
-SO THAT our own site is optimized for search engines. This allows to provide much more **Friendlier User Interface** when accessing our website and search engine for who have trouble using the Internet, for example. Our kids and especially our Grandparents who aren't brought up to this modern technolody and i want to make it much easier accessibilities so they do not feel lost, confuse or even left out. I WANT a CODEBASE that is up to date to our standard requierments because at our company **Wecare**.  
+AS A MARKETING AGENCY, I WANT a codebase that adheres to **Accessibility** standards so that our own website is search engine optimized. This enables us to give a far more **User-Friendly** interface when browsing our website and search engine for those who, for example, have difficulty using the Internet. I want to make it much easier accessibilities for our kids and especially our Grandparents who haven't been grown up with this current technology so they don't feel lost, confused, or even left out. I WANT a CODEBASE that is up to date to our standard requierments because at our company **Wecare**.  
 
 ## Images and Screenshot
 <img src="images\image_1.png" width="100">
