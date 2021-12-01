@@ -10,9 +10,9 @@ I WANT a codebase that follows accessibility standards
 SO THAT our own site is optimized for search engines. This allows to provide much more **Friendlier User Interface** when accessing our website and search engine for who have trouble using the Internet, for example. Our kids and especially our Grandparents who aren't brought up to this modern technolody and i want to make it much easier accessibilities so they do not feel lost, confuse or even left out. I WANT a CODEBASE that is up to date to our standard requierments because at our company **Wecare**.  
 
 ## Images and Screenshot
-<img src="/assets/images/image_1.png" width="100">
+<img src="images/image_1.png" width="100">
 
-![Example Images/Screenshot](/assets/images/WecareForYou.jpg) 
+![Screenshot](images/WecareForYou.jpg) 
 
 
 
