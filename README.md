@@ -12,7 +12,7 @@ SO THAT our own site is optimized for search engines. This allows to provide muc
 ## Images and Screenshot
 <img src="02-Homework/develop/assets/images/image_1.png" width="100">
 
-![Example Images/Screenshot](02-Homework/develop/assets/images/WecareForYou.png) 
+![Example Images/Screenshot](02-Homework/develop/assets/images/WecareForYou.jpg) 
 
 
 
